@@ -1,0 +1,10 @@
+body{
+margin:0;
+background-color: aquamarine;
+}
+
+.title{
+font-size: 55px;
+color:#222;
+text-align: center;
+}
